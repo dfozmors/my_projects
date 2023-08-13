@@ -1,4 +1,4 @@
-### This project was completed during a closed competition on the kaggle platform (2nd place)
+### This project was completed during a closed competition on the kaggle platform (2nd place) (Статус проекта - Завершен)
 
 The goal of the project is to predict the probability of diseases of the cardiovascular system by signs
 
